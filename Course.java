@@ -15,8 +15,8 @@ public class Course {
     public int getCourseID() { return this.courseID; }
 
     public Course(String name, int id) {
-        this.courseName=name;
-        this.courseID=id;
+        this.courseName = name;
+        this.courseID = id;
     }
 }
 
